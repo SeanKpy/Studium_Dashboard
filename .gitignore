@@ -1,0 +1,13 @@
+# Virtuelle Umgebung
+.venv/
+
+# PyCharm
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
